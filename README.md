@@ -1,1 +1,0 @@
-# netscaler-cleanup-script
